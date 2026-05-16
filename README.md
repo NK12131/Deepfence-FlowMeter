@@ -23,19 +23,7 @@ Additionally, Deepfence FlowMeter also categorizes packets into flows and shows 
 
 Use FlowMeter if you wish to build and operate machine-learning models on network packet data.
 
-## Quick Start
-
-For full instructions, refer to the [FlowMeter Documentation](https://docs.deepfence.io/flowmeter).
-
-![FlowMeter QuickStart](docs/docs/flowmeter/img/flowmeter.svg)
-
 ## Who uses FlowMeter?
 
-- We use FlowMeter internally to quickly analyse and label packets. It forms one part of a project to build a fast pre-filter for packets before we conduct deeper layer-7 analysis in [Deepfence ThreatMapper](https://deepfence.io/threatmapper/).
+- We use FlowMeter internally to quickly analyse and label packets. It forms one part of a project to build a fast pre-filter for packets before we conduct deeper layer-7 analysis in threatmapper.
 
-
-## Security and Support
-
-For any security-related issues in the FlowMeter project, contact [productsecurity _at_ deepfence _dot_ io](SECURITY.md).
-
-Please file GitHub issues as needed, and join the Deepfence Community [Slack channel](https://join.slack.com/t/deepfence-community/shared_invite/zt-podmzle9-5X~qYx8wMaLt9bGWwkSdgQ).
