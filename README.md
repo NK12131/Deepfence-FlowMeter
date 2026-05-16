@@ -48,11 +48,3 @@ Thank you for using FlowMeter.
 For any security-related issues in the FlowMeter project, contact [productsecurity _at_ deepfence _dot_ io](SECURITY.md).
 
 Please file GitHub issues as needed, and join the Deepfence Community [Slack channel](https://join.slack.com/t/deepfence-community/shared_invite/zt-podmzle9-5X~qYx8wMaLt9bGWwkSdgQ).
-
-## License
-
-The Deepfence FlowMeter project (this repository) is offered under the [Apache2 license](https://www.apache.org/licenses/LICENSE-2.0).
-
-[Contributions](CONTRIBUTING.md) to Deepfence FlowMeter project are similarly accepted under the Apache2 license, as per [GitHub's inbound=outbound policy](https://docs.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
-
-Updated readme file
